@@ -50,7 +50,8 @@ public class Main {
     public static void main(String[] args) {
 //      printRightTriangle(9);
 //      printIsocelesTriangle(9);
-      printCircle(9);
+//        circle does not work
+//      printCircle(9);
     }
 }
 
